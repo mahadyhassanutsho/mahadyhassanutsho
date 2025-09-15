@@ -15,9 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyhassanutsho&langs_count=10&layout=donut-vertical&show_icons=true&theme=transparent)
 
-<!--
 ![Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=mahadyhassanutsho&show_icons=true&theme=transparent)
--->
 
 <br />
 

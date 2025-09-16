@@ -1,28 +1,55 @@
-## Hi there 👋
+# 👋 Hey there, I’m Utsho  
 
-**I'm Utsho** and ✨ welcome to my github ✨
+[![GitHub followers](https://img.shields.io/github/followers/mahadyhassanutsho?label=Follow%20Me&style=social)](https://github.com/mahadyhassanutsho)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/utshodebravestone)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadyhassanutsho)  
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadyhassanutsho&show_icons=true&theme=dracula)](https://github.com/mahadyhassanutsho/github-readme-stats)
--->
+---
+
+## 🚀 About Me
+- 💻 Web Developer | Tech Explorer | Gamer at heart  
+- ⚡ Passionate about **building apps**, **learning new tech**, and **creative problem-solving**  
+- 🎯 Goal: To craft projects that are both **useful** and **fun**  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript | TypeScript | Python | Rust (dabbling 🦀)  
+- **Frontend:** React | Next.js | TailwindCSS  
+- **Backend:** Node.js | Express | MongoDB  
+- **Tools:** Git | VSCode | Bun | Linux  
+- **Extras:** Unity (C#) | Blender (just messing with 3D)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahadyhassanutsho&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahadyhassanutsho&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyhassanutsho&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
 
 
-## 📈 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadyhassanutsho&show_icons=true&theme=transparent)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahadyhassanutsho&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+## 🎮 Fun Facts
+- 🕹️ Love games that mix **storytelling + combat** (God of War, Sleeping Dogs, RPGs).  
+- 📖 Big fan of **Greek Mythology** 🏛️.  
+- 🌍 Open to collaboration & crazy project ideas.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyhassanutsho&langs_count=10&layout=donut-vertical&show_icons=true&theme=transparent)
+---
 
-![Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=mahadyhassanutsho&show_icons=true&theme=transparent)
+## 📬 Connect with Me
+- Facebook: [Utsho De Bravestone](https://facebook.com/utshodebravestone)  
+- Email: [mahadyhassanutsho](mailto:mahadyhassanutsho)  
 
-<br />
+---
 
-![](https://komarev.com/ghpvc/?username=mahadyhassanutsho)
-
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadyhassanutsho)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahadyhassanutsho&theme=onedark)](https://github.com/mahadyhassanutsho/github-profile-trophy)
--->
+✨ _“Code is like magic. With enough creativity, you can summon entire worlds.”_ ✨

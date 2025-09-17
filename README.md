@@ -47,7 +47,7 @@
 ---
 
 ## 📬 Connect with Me
-- Facebook: [Utsho De Bravestone](https://facebook.com/utshodebravestone)  
+- Facebook: [Utsho de Bravestone](https://facebook.com/utshodebravestone)  
 - Email: [mahadyhassanutsho](mailto:mahadyhassanutsho)  
 
 ---

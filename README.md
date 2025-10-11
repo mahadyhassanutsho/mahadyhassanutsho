@@ -14,11 +14,10 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript | TypeScript | Python | Rust (dabbling 🦀)  
+- **Languages:** JavaScript | TypeScript | Python | Rust (dabbling 🦀) | Go 
 - **Frontend:** React | Next.js | TailwindCSS  
 - **Backend:** Node.js | Express | MongoDB  
-- **Tools:** Git | VSCode | Bun | Linux  
-- **Extras:** Unity (C#) | Blender (just messing with 3D)  
+- **Tools:** Git | VSCode | Linux  
 
 ---
 

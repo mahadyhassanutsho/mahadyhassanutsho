@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript | TypeScript | Python | Rust (dabbling 🦀) | Go 
+- **Languages:** JavaScript | TypeScript | Python | Go | Rust (dabbling 🦀)
 - **Frontend:** React | Next.js | TailwindCSS  
 - **Backend:** Node.js | Express | MongoDB  
 - **Tools:** Git | VSCode | Linux  

@@ -40,7 +40,7 @@
 
 ## 🎮 Fun Facts
 - 🕹️ Love games that mix **storytelling + combat** (God of War, Sleeping Dogs, RPGs).  
-- 📖 Big fan of **Greek Mythology** 🏛️.  
+- 📖 Big fan of **Philosophy** 🏛️.  
 - 🌍 Open to collaboration & crazy project ideas.  
 
 ---

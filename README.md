@@ -6,22 +6,25 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Web Developer | Tech Explorer | Gamer at heart  
-- ⚡ Passionate about **building apps**, **learning new tech**, and **creative problem-solving**  
-- 🎯 Goal: To craft projects that are both **useful** and **fun**  
+## 🚀 About Me  
+Hey, I’m **Utsho** — a web developer, thinker, and gamer who loves mixing logic with creativity.  
+
+- 💻 Passionate about **building modern web apps** that feel *alive*  
+- ⚙️ Constantly exploring new tech (and occasionally breaking it 😅)  
+- 🧠 Philosophy nerd + Movie buff + Perpetual learner  
+- 🎯 Goal: Build projects that are **useful**, **fun**, and maybe just a little **unnecessary — but beautifully so**  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript | TypeScript | Python | Go | Rust (dabbling 🦀)
-- **Frontend:** React | Next.js | TailwindCSS  
-- **Backend:** Node.js | Express | MongoDB  
-- **Tools:** Git | VSCode | Linux  
+## 🛠️ Tech Stack  
+**Languages:** JavaScript • TypeScript • Python • Go • Rust (dabbling 🦀)  
+**Frontend:** React • Next.js • TailwindCSS • DaisyUI  
+**Backend:** Node.js • Express • MongoDB • Firebase  
+**Tools:** Git • VSCode • Linux  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahadyhassanutsho&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
 </p>
@@ -34,21 +37,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyhassanutsho&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
+---
 
+## 🎮 Fun Facts  
+- 🕹️ Big fan of **story-driven + combat-heavy** games (think *God of War*, *Sleeping Dogs*, RPGs).  
+- 🏛️ Can talk philosophy for hours — sometimes even with people.  
+- 🔁 Proud member of the **“Let’s reinvent the wheel”** club — because hey, sometimes your wheel needs better UI and smoother rotation.  
+- 💡 Always open to **collabs**, **chaotic ideas**, and **late-night brainstorming**.  
 
 ---
 
-## 🎮 Fun Facts
-- 🕹️ Love games that mix **storytelling + combat** (God of War, Sleeping Dogs, RPGs).  
-- 📖 Big fan of **Philosophy** 🏛️.  
-- 🌍 Open to collaboration & crazy project ideas.  
+## 📬 Connect with Me  
+- 🌐 [Facebook – Utsho de Bravestone](https://facebook.com/utshodebravestone)  
+- ✉️ [mahadyhassanutsho](mailto:mahadyhassanutsho)  
 
 ---
 
-## 📬 Connect with Me
-- Facebook: [Utsho de Bravestone](https://facebook.com/utshodebravestone)  
-- Email: [mahadyhassanutsho](mailto:mahadyhassanutsho)  
-
----
-
-✨ _“Code is like magic. With enough creativity, you can summon entire worlds.”_ ✨
+✨ _“Code is just modern alchemy — turn coffee into magic and logic into art.”_ ✨

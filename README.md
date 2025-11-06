@@ -1,4 +1,29 @@
-# Hi 👋, I'm Utsho ***An Experienced MERN Stack Developer***
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://fb.com/utsho.de.bravestone" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3b5998&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+  <a href="https://github.com/mahadyhassanutsho" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292e&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  <a href="https://twitter.com/utshobravestone" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=111111&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+  <a href="mailto:mahadyhassanutsho@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=cc3333&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+</div>
+
+###
+
+# Hi 👋, I'm *Utsho*
+
+**An Experienced MERN Stack Developer**
 
 - 🔭 I'm currently working on **MERN Stack Projects**
 - 🌱 I'm currently learning **Haskell and Functional Programming**
@@ -12,42 +37,6 @@
 ---
 
 <div>
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://github.com/mahadyhassanutsho" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-        alt="mahadyhassanutsho"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://fb.com/utsho.de.bravestone" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="utsho.de.bravestone"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://twitter.com/utshobravestone" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="utshobravestone"
-        height="30"
-        width="40"
-    /></a>
-    <a href="https://discord.gg/utshobravestone" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-        alt="utsho"
-        height="30"
-        width="40"
-    /></a>
-  </p>
-
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a
@@ -429,13 +418,15 @@
 
 <div>
   <h3 align="left">My GitHub Stats:</h3>
+  
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadyhassanutsho&show_icons=true&locale=en&layout=compact&theme=dark"
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyhassanutsho&theme=dark"
       alt="mahadyhassanutsho"
     />
   </p>
-
+  
   <p align="center">
     <img
       align="center"
@@ -446,8 +437,7 @@
 
   <p align="center">
     <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyhassanutsho&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadyhassanutsho&show_icons=true&locale=en&theme=dark"
       alt="mahadyhassanutsho"
     />
   </p>
@@ -458,4 +448,10 @@
         alt="mahadyhassanutsho"
     />
   </p>
+</div>
+
+---
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahadyhassanutsho&"  />
 </div>

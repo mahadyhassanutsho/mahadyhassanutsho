@@ -38,380 +38,104 @@
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/bash"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=bash"
-        alt="bash"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/blender"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=blender"
-        alt="blender"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/css3"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=css"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/django"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=django"
-        alt="django"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/express"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=express"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/fastapi"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=fastapi"
-        alt="fastapi"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/figma"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=figma"
-        alt="figma"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/firebase"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=firebase"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/flask"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=flask"
-        alt="flask"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/framer"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://cdn.simpleicons.org/framer"
-        alt="framer"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/git"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=git"
-        alt="git"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/go"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=go"
-        alt="go"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/html5"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=html"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/javascript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=js"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/linux"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=linux"
-        alt="linux"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/matplotlib"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-        alt="matplotlib"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/mongodb"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=mongodb"
-        alt="mongodb"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/nextjs"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=nextjs"
-        alt="nextjs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/nodejs"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=nodejs"
-        alt="nodejs"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/numpy"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-        alt="numpy"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/pandas"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-        alt="pandas"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/photoshop"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=photoshop"
-        alt="photoshop"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/postman"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=postman"
-        alt="postman"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/python"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=py"
-        alt="python"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/react"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=react"
-        alt="react"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/rust"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=rust"
-        alt="rust"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/sass"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=sass"
-        alt="sass"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/seaborn"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        alt="seaborn"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/sqlite"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=sqlite"
-        alt="sqlite"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/tailwind"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=tailwind"
-        alt="tailwind"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/typescript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://skillicons.dev/icons?i=ts"
-        alt="typescript"
-        width="40"
-        height="40"
-      />
-    </a>
-  </p>
+
+  <div align="center">
+    <!-- 🌐 Languages -->
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=regex" height="60" alt="Regex logo" />
+    <img width="12" />
+    <!-- 🎨 Frontend -->
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="Material UI logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=htmx" height="60" alt="HTMX logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=vite" height="60" alt="Vite logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="Webpack logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=babel" height="60" alt="Babel logo" />
+    <img width="12" />
+    <!-- ⚙️ Backend -->
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=deno" height="60" alt="Deno logo" />
+    <img width="12" />
+    <!-- 🗄️ Databases -->
+    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite logo" />
+    <img width="12" />
+    <!-- 🧰 Tools & Package Managers -->
+    <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=pnpm" height="60" alt="pnpm logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=bun" height="60" alt="Bun logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code logo" />
+    <img width="12" />
+    <!-- 🖥️ Environment -->
+    <img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="PowerShell logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux logo" />
+    <img width="12" />
+    <!-- 🎨 Design & Creative -->
+    <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=blender" height="60" alt="Blender logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=svg" height="60" alt="SVG logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=md" height="60" alt="Markdown logo" />
+    <img width="12" />
+    <!-- ☁️ Deployment & Platforms -->
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="60" alt="Twitter logo" />
+  </div>
 </div>
 
 ---

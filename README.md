@@ -32,7 +32,7 @@
 - 💬 Ask me about **Web Dev (React, JavaScript, NodeJS, CSS etc.)**
 - 📫 How to reach me **<mahadyhassanutsho@gmail.com>**
 - ⚡ Fun fact **I'm a Fulltime Philosopher**
-- 👨‍💻 All of my projects are available at **[https://utsho.vercel.app](https://utsho.vercel.app)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/mahadyhassanutsho?tab=repositories)**
 
 ---
 
